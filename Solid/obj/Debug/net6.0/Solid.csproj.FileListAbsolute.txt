@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/bin/Debug/net6.0/Solid
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/bin/Debug/net6.0/Solid.deps.json
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/bin/Debug/net6.0/Solid.runtimeconfig.json
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/bin/Debug/net6.0/Solid.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/bin/Debug/net6.0/Solid.pdb
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/refint/Solid.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.pdb
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/Solid.genruntimeconfig.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Solid/obj/Debug/net6.0/ref/Solid.dll

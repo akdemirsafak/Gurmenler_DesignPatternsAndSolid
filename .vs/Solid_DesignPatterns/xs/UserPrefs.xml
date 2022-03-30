@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E2099C5C-059E-4110-9DDD-2E5EFD4C95F6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Facade FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Solid FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bridge FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Solid/02_OCP/ILogger.cs">
+    <Files>
+      <File FileName="Solid/03_LSP/IAnimal.cs" Line="6" Column="9" />
+      <File FileName="Solid/03_LSP/IFlyable.cs" Line="6" Column="27" />
+      <File FileName="Solid/03_LSP/Wolf.cs" Line="12" Column="46" />
+      <File FileName="Solid/02_OCP/ILogger.cs" Line="1" Column="1" />
+      <File FileName="Solid/02_OCP/DbLogger.cs" Line="1" Column="1" />
+      <File FileName="Solid/02_OCP/ConsoleLogger.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solid_DesignPatterns" expanded="True">
+            <Node name="Bridge" expanded="True" />
+            <Node name="Facade" expanded="True" />
+            <Node name="Solid" expanded="True">
+              <Node name="05_DIP" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

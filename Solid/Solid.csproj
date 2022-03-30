@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="01_SRP\" />
+    <None Remove="02_OCP\" />
+    <None Remove="03_LSP\" />
+    <None Remove="04_ISP\" />
+    <None Remove="05_DIP\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="01_SRP\" />
+    <Folder Include="02_OCP\" />
+    <Folder Include="03_LSP\" />
+    <Folder Include="04_ISP\" />
+    <Folder Include="05_DIP\" />
+  </ItemGroup>
+</Project>
