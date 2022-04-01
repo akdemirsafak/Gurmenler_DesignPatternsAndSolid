@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/bin/Debug/net6.0/Bridge
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/bin/Debug/net6.0/Bridge.deps.json
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/bin/Debug/net6.0/Bridge.runtimeconfig.json
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/bin/Debug/net6.0/Bridge.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/bin/Debug/net6.0/Bridge.pdb
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/refint/Bridge.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.pdb
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/Bridge.genruntimeconfig.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Bridge/obj/Debug/net6.0/ref/Bridge.dll
