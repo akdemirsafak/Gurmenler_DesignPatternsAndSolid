@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/bin/Debug/net6.0/Facade
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/bin/Debug/net6.0/Facade.deps.json
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/bin/Debug/net6.0/Facade.runtimeconfig.json
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/bin/Debug/net6.0/Facade.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/bin/Debug/net6.0/Facade.pdb
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/refint/Facade.dll
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.pdb
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/Facade.genruntimeconfig.cache
+/Users/akdemirsafak/Desktop/GurmenGroup/Solid_DesignPatterns/Facade/obj/Debug/net6.0/ref/Facade.dll
